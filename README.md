@@ -57,3 +57,7 @@ book using the [pullup](https://github.com/LegNeato/pullup) project.
 [mdBook]: https://github.com/rust-lang/mdBook
 [book.toml]: https://rust-lang.github.io/mdBook/guide/creating.html#booktoml
 [Typst]: https://typst.app/docs/
+
+## added
+1. supoort markdown table
+2. support pic
