@@ -58,6 +58,12 @@ book using the [pullup](https://github.com/LegNeato/pullup) project.
 [book.toml]: https://rust-lang.github.io/mdBook/guide/creating.html#booktoml
 [Typst]: https://typst.app/docs/
 
-## added
+# Added function
 1. supoort markdown table
 2. support pic
+
+## usage
+```
+cargo uninstall mdbook-typst
+cargo install --git https://github.com/gejigeji/mdbook-typst.git
+```
