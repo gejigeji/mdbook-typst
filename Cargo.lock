@@ -704,7 +704,7 @@ checksum = "bd348ff538bc9caeda7ee8cad2d1d48236a1f443c1fa3913c6a02fe0043b1dd3"
 [[package]]
 name = "pulldown_mdbook"
 version = "0.3.2"
-source = "git+https://github.com/gejigeji/pullup.git#9263d6af083620abfecd9ed3b81e23b2653d5ca0"
+source = "git+https://github.com/gejigeji/pullup.git#47e2bbe29442fb4c7d52a5c4917b508d3cb1e35b"
 dependencies = [
  "mdbook",
  "pulldown-cmark 0.9.6",
@@ -714,7 +714,7 @@ dependencies = [
 [[package]]
 name = "pulldown_typst"
 version = "0.3.17"
-source = "git+https://github.com/gejigeji/pullup.git#9263d6af083620abfecd9ed3b81e23b2653d5ca0"
+source = "git+https://github.com/gejigeji/pullup.git#47e2bbe29442fb4c7d52a5c4917b508d3cb1e35b"
 dependencies = [
  "pulldown-cmark 0.9.6",
  "tracing",
@@ -723,7 +723,7 @@ dependencies = [
 [[package]]
 name = "pullup"
 version = "0.3.14"
-source = "git+https://github.com/gejigeji/pullup.git#9263d6af083620abfecd9ed3b81e23b2653d5ca0"
+source = "git+https://github.com/gejigeji/pullup.git#47e2bbe29442fb4c7d52a5c4917b508d3cb1e35b"
 dependencies = [
  "pulldown-cmark 0.9.6",
  "pulldown_mdbook",
