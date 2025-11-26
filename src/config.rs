@@ -50,7 +50,7 @@ pub fn default_text_size() -> String {
     "11pt".to_string()
 }
 pub fn default_text_font() -> String {
-    "Helvetica".to_string()
+    "SimSun".to_string()
 }
 pub fn default_paragraph_spacing() -> String {
     "2em".to_string()
